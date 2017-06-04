@@ -1318,7 +1318,7 @@
     }]
   }, {
     bankName: "苏州市商业银行",
-    bankCode: "JSBANK",
+    bankCode: "SZBANK",
     patterns: [{
       reg: /^(603506)\d{13}$/g,
       cardType: "DC"
